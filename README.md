@@ -32,9 +32,9 @@
 - **Pipeline with Standardization & Random Forest Regression**:
   - Used `Pipeline` to apply **StandardScaler** and **RandomForestRegressor**.
   - Model Evaluation:
-    - RMSE: **48,925.28**
-    - MAE: **32,182.05**
-    - R²: **0.8268**
+    - RMSE: ** 55756.63719728654**
+    - MAE: **38439.622328066915**
+    - R²: ** 0.780161676**
 
 #### **4. XGBoost Implementation (Pending)**
 - Planned **GridSearchCV/RandomizedSearchCV** for **XGBoost hyperparameter tuning**.
